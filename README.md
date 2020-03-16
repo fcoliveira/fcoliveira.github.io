@@ -1,3 +1,3 @@
 ## Trilha Dev
 
-[Trilha Dev](http://fcoliveira.me/trilha-dev)
+[Trilha Dev](http://fcoliveira.github.io/trilha-dev)
